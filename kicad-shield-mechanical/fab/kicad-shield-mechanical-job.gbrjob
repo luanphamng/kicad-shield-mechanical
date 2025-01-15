@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "8.0.2"
     },
-    "CreationDate": "2025-01-15T11:34:09+07:00"
+    "CreationDate": "2025-01-15T19:46:35+07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -39,6 +39,16 @@
     {
       "Path": "kicad-shield-mechanical-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "kicad-shield-mechanical-F_Paste.gbr",
+      "FileFunction": "SolderPaste,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "kicad-shield-mechanical-B_Paste.gbr",
+      "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {

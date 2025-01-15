@@ -2,7 +2,7 @@
 %TF.CreationDate,2025-01-15T19:46:35+07:00*%
 %TF.ProjectId,kicad-shield-mechanical,6b696361-642d-4736-9869-656c642d6d65,rev?*%
 %TF.SameCoordinates,Original*%
-%TF.FileFunction,Copper,L2,Bot*%
+%TF.FileFunction,Paste,Top*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
