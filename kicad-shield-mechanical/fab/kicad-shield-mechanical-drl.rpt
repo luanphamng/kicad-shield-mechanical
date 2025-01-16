@@ -1,5 +1,5 @@
 Drill report for kicad-shield-mechanical.kicad_pcb
-Created on 2025-01-15T11:34:15+0700
+Created on 2025-01-16T15:44:21+0700
 
 Copper Layer Stackup:
     =============================================================
@@ -10,10 +10,10 @@ Copper Layer Stackup:
 Drill file 'kicad-shield-mechanical-PTH.drl' contains
     plated through holes:
     =============================================================
-    T1  0.900mm  0.0354"  (1258 holes)
-    T2  3.200mm  0.1260"  (7 holes)
+    T1  0.900mm  0.0354"  (1254 holes)
+    T2  3.200mm  0.1260"  (4 holes)
 
-    Total plated holes count 1265
+    Total plated holes count 1258
 
 
 Drill file 'kicad-shield-mechanical-NPTH.drl' contains
